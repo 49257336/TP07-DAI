@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /b)",
+      "Bash(move *)",
+      "PowerShell(Move-Item *)"
+    ]
+  }
+}
